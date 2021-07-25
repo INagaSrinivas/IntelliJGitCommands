@@ -4,7 +4,6 @@ public class SampleClass {
         System.out.println("Hello world");
         System.out.println("Hi Hello world");
         System.out.println("Welcome Hello world");
+        System.out.println("Welcome");
     }
-
-
 }
